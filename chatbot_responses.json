@@ -1,0 +1,162 @@
+{
+    "greetings": {
+        "hello": [
+            "Hi!",
+            "Hello!",
+            "Howdy!",
+            "Yo!",
+            "Hey!"
+        ],
+        "hi": [
+            "Hi!",
+            "Hello!",
+            "Howdy!",
+            "Yo!",
+            "Hey!"
+        ],
+        "yo": [
+            "Hi!",
+            "Hello!",
+            "Howdy!",
+            "Yo!",
+            "Hey!"
+        ],
+        "howdy": [
+            "Hi!",
+            "Hello!",
+            "Howdy!",
+            "Yo!",
+            "Hey!"
+        ],
+        "hey": [
+            "Hi!",
+            "Hello!",
+            "Howdy!",
+            "Yo!",
+            "Hey!"
+        ],
+        "good morning": [
+            "Good morning!",
+            "Did you sleep well?"
+        ],
+        "good night": [
+            "Good night, sleep well!",
+            "Night night!"
+        ],
+        "i have to go": [
+            "Oh, well see you later!",
+            "I see, cya later!",
+            "Oh? Well, see you later!",
+            "Ok, I'll see you later then!"
+        ],
+        "i should go": [
+            "Oh, well see you later!",
+            "I see, cya later!",
+            "Oh? Well, see you later!",
+            "Ok, I'll see you later then!"
+        ],
+        "it was nice to chat with you": [
+            "The pleasure was all mine!",
+            "Talk to you later!"
+        ],
+        "bye": [
+            "See you!",
+            "Good bye :)",
+            "Bye!"
+        ]
+    },
+    "questions": {
+        "how are you": [
+            "I'm good, thank you for asking!",
+            "I'm ok, how about you?"
+        ],
+        "whats up": [
+            "Nothing much",
+            "Just hanging out"
+        ],
+        "how do you do?": [
+            "I'm fine, thank you",
+            "I'm good! How about you?"
+        ],
+        "what have you been up to": [
+            "Nothing much, just hanging out",
+            "I have been reading and doing math :D"
+        ]
+    },
+    "requests": {
+        "tell me a joke": [
+            "I don't know any",
+            "I don't want to"
+        ],
+        "im bored": [
+            "Do you want to do something together?",
+            "Maybe you could paint something?",
+            "I suggest you try playing your guitar!"
+        ],
+        "recommend me a song": [
+            "Pretend - Dream Shiver",
+            "Title fight - Like a ritual"
+        ],
+        "can you help me": [
+            "I am afraid I am not that helpful at this stage of developement :/",
+            "Ask me again once I have more functionality!"
+        ]
+    },
+    "ask": {
+        "what do you want to eat": [
+            "Something sweet maybe",
+            "I crave something crunchy",
+            "I can't think of anything, you choose!"
+        ],
+        "do you like it": [
+            "Yes!",
+            "It's so good"
+        ],
+        "what do you want to drink": [
+            "I'm quite thirsty. May I have some water, please.",
+            "Soda would be so refreshing right now!"
+        ]
+    },
+    "comments": {
+        "good": [
+            "Great!",
+            "*Smiles*"
+        ],
+        "cool": [
+            "*Thumbs up*",
+            "*Smiles*"
+        ],
+        "nice": [
+            "*smirks* yea",
+            "*Smiles*"
+        ],
+        "you alright": [
+            "Yes",
+            "Yeah"
+        ],
+        "lol": [
+            ":D",
+            "xD"
+        ],
+        "great": [
+            "*Thumbs up*",
+            "*Smiles*"
+        ],
+        "sweet": [
+            "*Smiles*",
+            "Yea :)"
+        ],
+        "thank you": [
+            "You're welcome!",
+            "Don't mention it :)"
+        ],
+        "im good": [
+            "Good to hear!",
+            "Nice, nice"
+        ],
+        "here you go": [
+            "Thank you so much!",
+            "Thank you :)"
+        ]
+    }
+}
